@@ -1,4 +1,3 @@
-# "What can you do with a sword? Gender biases in text game affordances"
 - To appear in the proceedings of the 2023 [GALA Conference](https://conf.seriousgamessociety.org/).
 
 **Abstract**:
