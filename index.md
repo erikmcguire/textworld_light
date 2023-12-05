@@ -5,3 +5,5 @@
 
 - TTR, Quest Generation, TextWorld-LIGHT notebooks are sources for paper contents.
 - LIGHT Data and TextWorld-LIGHT Demo notebooks are intended for more casual perusal of data and compiled games.
+
+<a href="https://github.com/erikmcguire/textworld_light">Repo</a>
